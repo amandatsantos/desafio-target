@@ -1,0 +1,35 @@
+{
+    "mes": [
+      {"dia": 1, "faturamento": 0.0, "feriado": false, "final_de_semana": true},
+      {"dia": 2, "faturamento": 0.0, "feriado": false, "final_de_semana": true},
+      {"dia": 3, "faturamento": 2000.0, "feriado": false, "final_de_semana": false},
+      {"dia": 4, "faturamento": 1500.0, "feriado": false, "final_de_semana": false},
+      {"dia": 5, "faturamento": 1700.0, "feriado": false, "final_de_semana": false},
+      {"dia": 6, "faturamento": 4000.0, "feriado": false, "final_de_semana": false},
+      {"dia": 7, "faturamento": 0.0, "feriado": true, "final_de_semana": false},
+      {"dia": 8, "faturamento": 0.0, "feriado": false, "final_de_semana": true},
+      {"dia": 9, "faturamento": 0.0, "feriado": true, "final_de_semana": true},
+      {"dia": 10, "faturamento": 1000.0, "feriado": false, "final_de_semana": false},
+      {"dia": 11, "faturamento": 1000.0, "feriado": false, "final_de_semana": false},
+      {"dia": 12, "faturamento": 1500.0, "feriado": false, "final_de_semana": false},
+      {"dia": 13, "faturamento": 2000.0, "feriado": false, "final_de_semana": false},
+      {"dia": 14, "faturamento": 3000.0, "feriado": false, "final_de_semana": false},
+      {"dia": 15, "faturamento": 0.0, "feriado": false, "final_de_semana": true},
+      {"dia": 16, "faturamento": 0.0, "feriado": false, "final_de_semana": true},
+      {"dia": 17, "faturamento": 700.0, "feriado": false, "final_de_semana": false},
+      {"dia": 18, "faturamento": 1800.0, "feriado": false, "final_de_semana": false},
+      {"dia": 19, "faturamento": 2200.0, "feriado": false, "final_de_semana": false},
+      {"dia": 20, "faturamento": 4000.0, "feriado": false, "final_de_semana": false},
+      {"dia": 21, "faturamento": 0.0, "feriado": true, "final_de_semana": false},
+      {"dia": 22, "faturamento": 0.0, "feriado": false, "final_de_semana": true},
+      {"dia": 23, "faturamento": 0.0, "feriado": false, "final_de_semana": true},
+      {"dia": 24, "faturamento": 1500.0, "feriado": false, "final_de_semana": false},
+      {"dia": 25, "faturamento": 1800.0, "feriado": false, "final_de_semana": false},
+      {"dia": 26, "faturamento": 3000.0, "feriado": false, "final_de_semana": false},
+      {"dia": 27, "faturamento": 2500.0, "feriado": false, "final_de_semana": false},
+      {"dia": 28, "faturamento": 3500.0, "feriado": false, "final_de_semana": false},
+      {"dia": 29, "faturamento": 0.0, "feriado": false, "final_de_semana": true},
+      {"dia": 30, "faturamento": 0.0, "feriado": false, "final_de_semana": true}
+    ]
+    }
+  
